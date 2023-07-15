@@ -29,38 +29,19 @@ blog_settings:
   # 1. See all the icons available here https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/foundation/icons.html
   # 2. Get the name of the icon e.g basket, then prefix with ni to make ni-basket. 
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
+
 menu_settings:
   menu_items:
-    - title: 'Home'
-      submenu_items:
-      - title: Landing Page
-        url: /
-        icon: ni-spaceship text-success    
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-    - title: 'Features'
-      url: '/features'     
-    - title: Pricing
-      url: /pricing        
-    - title: 'Blog'
-      submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
-        url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: "About"
+      url: "/about"
+    - title: "Research"
+      url: "/research"
+    - title: "Tutorials"
+      url: "/tutorials"
+    - title: "Docs"
+      url: "/docs"
+    - title: "School"
+      url: "/school"
 
 footer_settings:
   footer_tagline: Argon & Jekyll, together at last.
