@@ -1,7 +1,7 @@
 site: KonanAI
 
 url: https://konanai-llc.github.io
-baseurl:
+baseurl: 
 
 collections:
   pages:
@@ -29,7 +29,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "post" 
 
 sass:
   sass_dir: assets/styles
@@ -42,3 +42,4 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+  
