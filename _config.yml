@@ -1,7 +1,7 @@
-site: Argon Jekyll Theme
+site: KonanAI
 
-url: https://argon.jekyllthemes.io
-baseurl: 
+url: https://konanai-llc.github.io
+baseurl:
 
 collections:
   pages:
@@ -29,7 +29,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post" 
+      layout: "post"
 
 sass:
   sass_dir: assets/styles
@@ -42,4 +42,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
