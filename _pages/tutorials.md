@@ -1,25 +1,18 @@
 ---
-title: About Us
-subtitle: This is the perfect theme for developers, designers and other creatives.
-description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
-featured_image: /assets/img/sections/broofoac.jpg
+title: Blog Example - List 
+subtitle: Perfect for text heavy blog posts
 ---
 
-```components/teams/team-carousel-1.html ```
-{% include components/teams/team-carousel-1.html %}
+### List
+You can change your blog style in the `settings.yml` file.
+
+You'll find this inside the `_data` folder – this is where you can set all of the theme options.
+
+`theme` – choose a format for your blog listings [basic, narrow, grid]
 
 ---
-```components/teams/team-carousel-2.html ```
-{% include components/teams/team-carousel-2.html %}
 
----
-```components/teams/team-carousel-3.html ```
-{% include components/teams/team-carousel-3.html %}
+ {% include components/blog/basic.html %}  
 
----
-```components/teams/team-carousel-4.html ```
-{% include components/teams/team-carousel-4.html %}
 
----
-```components/teams/team-carousel-5.html ```
-{% include components/teams/team-carousel-5.html %}
+
