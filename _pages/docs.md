@@ -1,18 +1,16 @@
 ---
 title: KonanAI Documentation - Explore Our API
-subtitle: Comprehensive guides and references for every aspect of KonanAI's Deep Learning API
+subtitle: Comprehensive guides and API references, hosted on ReadTheDocs
 ---
 
 ### Documentation
 
-Welcome to KonanAI's Documentation. Here, we provide extensive resources that detail the various features, capabilities, and uses of our cutting-edge Deep Learning API.
+At KonanAI, we believe in making our technology as accessible and understandable as possible. To achieve this, we've hosted our complete and comprehensive documentation on ReadTheDocs. 
 
-Each section is meticulously crafted and regularly updated to ensure you always have the most accurate information at your fingertips. Whether you're just starting out or you're an experienced user, our documentation provides the knowledge you need to make the most of our API.
+Whether you're a beginner seeking to understand the basics of deep learning, or an experienced AI researcher looking for detailed information about our API, our documentation is a treasure trove of knowledge waiting to be discovered. It's meticulously crafted and regularly updated, ensuring you always have the most accurate and useful information.
 
-Use the categories to navigate and find the right documentation for your needs, or use the search function for a more focused inquiry. Each of our documents offers clear instructions, example usage, and troubleshooting advice to help you smoothly integrate our API into your work.
-
-<center>
-    <a href="https://konanai.readthedocs.io" target="_blank">
-        <button style="font-size: 20px; padding: 10px 20px;">Visit our Documentation</button>
-    </a>
-</center>
+<div class="buttons" style="text-align: center;">
+  <a href="https://konanai.readthedocs.io" class="btn btn-primary">
+    Read The Docs
+  </a>
+</div>
