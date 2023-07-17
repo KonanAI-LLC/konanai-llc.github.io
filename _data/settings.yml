@@ -34,14 +34,10 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Research"
-      url: "/research"
     - title: "Tutorials"
       url: "/tutorials"
     - title: "Docs"
       url: "/docs"
-    - title: "School"
-      url: "/school"
 
 footer_settings:
   footer_tagline: Argon & Jekyll, together at last.
