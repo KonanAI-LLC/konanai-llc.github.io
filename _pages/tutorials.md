@@ -1,18 +1,15 @@
 ---
-title: Blog Example - List 
-subtitle: Perfect for text heavy blog posts
+title: Tutorials - Getting Started
+subtitle: Ideal for users new to our Deep Learning API
 ---
 
-### List
-You can change your blog style in the `settings.yml` file.
+### Tutorial List
+Here you can access all our tutorials on using the KonanAI API.
 
-You'll find this inside the `_data` folder – this is where you can set all of the theme options.
+The tutorials are divided into several categories for ease of navigation.
 
-`theme` – choose a format for your blog listings [basic, narrow, grid]
+`Level` - choose a tutorial based on your expertise [beginner, intermediate, advanced]
 
 ---
 
- {% include components/blog/basic.html %}  
-
-
-
+{% include components/tutorial/basic.html %}  
