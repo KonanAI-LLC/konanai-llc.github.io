@@ -11,9 +11,8 @@ Each section is meticulously crafted and regularly updated to ensure you always 
 
 Use the categories to navigate and find the right documentation for your needs, or use the search function for a more focused inquiry. Each of our documents offers clear instructions, example usage, and troubleshooting advice to help you smoothly integrate our API into your work.
 
----
-
-{% include components/blog/basic.html %}  
-
-
-
+<center>
+    <a href="https://konanai.readthedocs.io" target="_blank">
+        <button style="font-size: 20px; padding: 10px 20px;">Visit our Documentation</button>
+    </a>
+</center>
