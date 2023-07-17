@@ -12,4 +12,4 @@ The tutorials are divided into several categories for ease of navigation.
 
 ---
 
-{% include components/tutorial/basic.html %}  
+{% include components/blog/basic.html %}  
