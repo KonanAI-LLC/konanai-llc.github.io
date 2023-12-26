@@ -31,36 +31,41 @@ blog_settings:
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: "Home"
+      url: "/"
+      icon: "ni ni-tv-2"
+    - title: "Features"
+      url: "/features"
+      icon: "ni ni-air-baloon"
+    - title: "Engineering"
       submenu_items:
-      - title: Landing Page
-        url: /
-        icon: ni-spaceship text-success    
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-    - title: 'Features'
-      url: '/features'     
-    - title: Pricing
-      url: /pricing        
-    - title: 'Blog'
+        - title: "Open Source"
+          url: "/engineering/open-source"
+          icon: "ni ni-world"
+        - title: "Real-Time AI"
+          url: "/engineering/real-time-ai"
+          icon: "ni ni-laptop"
+        - title: "Global Scaling"
+          url: "/engineering/global-scaling"
+          icon: "ni ni-planet"
+    - title: "Science"
       submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
-        url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+        - title: "Enhancement"
+          url: "/science/enhancement"
+          icon: "ni ni-atom"
+        - title: "Psychoacoustics"
+          url: "/science/psychoacoustics"
+          icon: "ni ni-sound-wave"
+    - title: "Demo"
+      url: "/demo"
+      icon: "ni ni-watch-time"
+    - title: "Docs"
+      url: "/docs"
+      icon: "ni ni-books"
+    - title: "Contact"
+      url: "/contact"
+      icon: "ni ni-chat-round"
+
 
 footer_settings:
   footer_tagline: Argon & Jekyll, together at last.
